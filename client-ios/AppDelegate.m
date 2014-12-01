@@ -1,14 +1,7 @@
-//
-//  AppDelegate.m
-//  PushTalk
-//
-//  Created by YuanQiang on 12-12-25.
-//  Copyright (c) 2012年 YuanQiang. All rights reserved.
-//
 
 #import "AppDelegate.h"
 #import "APService.h"
-#import "JPushViewController.h"
+#import "PushViewController.h"
 
 
 CGRect kScreenBounds;
@@ -63,7 +56,7 @@ UIColor *kNavigationColor;
     _window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     [_window setBackgroundColor:[UIColor whiteColor]];
     
-    JPushViewController *viewController = [[JPushViewController alloc] init];
+    PushViewController *viewController = [[PushViewController alloc] init];
     
     UINavigationController *navigationController = [[UINavigationController alloc] initWithRootViewController:viewController];
     

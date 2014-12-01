@@ -1,10 +1,3 @@
-//
-//  InfoDetailViewController.m
-//  PushTalk
-//
-//  Created by yuanqiang on 13-3-5.
-//  Copyright (c) 2013年 Jpush. All rights reserved.
-//
 
 #import "InfoDetailViewController.h"
 #import "AppDelegate.h"

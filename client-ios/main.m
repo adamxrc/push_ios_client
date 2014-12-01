@@ -1,10 +1,3 @@
-//
-//  main.m
-//  PushTalk
-//
-//  Created by YuanQiang on 12-11-19.
-//
-//
 
 #import <UIKit/UIKit.h>
 

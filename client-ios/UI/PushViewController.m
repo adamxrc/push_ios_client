@@ -1,12 +1,5 @@
-//
-//  JPushViewController.m
-//  PushTalk
-//
-//  Created by YuanQiang on 12-12-25.
-//  Copyright (c) 2012年 YuanQiang. All rights reserved.
-//
 
-#import "JPushViewController.h"
+#import "PushViewController.h"
 #import "APService.h"
 #import "APClient.h"
 #import "NSString+Digest.h"
@@ -22,11 +15,11 @@
 
 
 
-@interface JPushViewController ()
+@interface PushViewController ()
 
 @end
 
-@implementation JPushViewController
+@implementation PushViewController
 
 #define HTTP_URL_PREFIX @"http://111.13.48.109:10010/"
 

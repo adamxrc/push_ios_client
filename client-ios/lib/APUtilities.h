@@ -1,10 +1,3 @@
-//
-//  APUtilities.h
-//  PushSDK
-//
-//  Created by LiDong on 12-9-6.
-//  Copyright (c) 2012年 HXHG. All rights reserved.
-//
 
 #ifndef __UTILITIES_H__
 #define __UTILITIES_H__

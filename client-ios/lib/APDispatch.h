@@ -1,10 +1,3 @@
-//
-//  APDispatch.h
-//  PushSDK
-//
-//  Created by LiDong on 12-9-16.
-//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
-//
 
 #import "APProtocol.h"
 

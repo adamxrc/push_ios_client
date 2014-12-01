@@ -1,11 +1,3 @@
-/*
- *  APConfig.h
- *  APTalk
- *
- *  Created by LiDong on 11-3-26.
- *  Copyright 2011 HXHG. All rights reserved.
- *
- */
 
 #ifndef __AP_CONFIG_H__
 #define __AP_CONFIG_H__

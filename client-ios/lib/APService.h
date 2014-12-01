@@ -1,10 +1,3 @@
-//
-//  APService.h
-//  APService
-//
-//  Created by JPush on 12-8-15.
-//  Copyright (c) 2012年 HXHG. All rights reserved.
-//  Version: 1.7.3
 
 #import <Foundation/Foundation.h>
 
@@ -26,7 +19,7 @@ extern NSString *const kAPServiceErrorNotification;  // 错误提示
     remoteInfo;  // 处理收到的APNS消息，向服务器上报收到APNS消息
 
 // 下面的接口是可选的
-// 设置标签和(或)别名（若参数为nil，则忽略；若是空对象，则清空；详情请参考文档：http://docs.jpush.cn/pages/viewpage.action?pageId=3309913）
+// 设置标签和(或)别名（若参数为nil，则忽略；若是空对象，则清空
 + (void)setTags:(NSSet *)tags
                alias:(NSString *)alias
     callbackSelector:(SEL)cbSelector
